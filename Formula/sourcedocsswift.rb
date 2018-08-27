@@ -4,8 +4,8 @@
 class Sourcedocsswift < Formula
   desc "LaTeX-таблицы всех классов, структур и их полей и методов из проекта Xcode"
   homepage "https://github.com/ilyakooo0/SourceDocsSwift"
-  url "https://github.com/ilyakooo0/SourceDocsSwift/releases/download/1.0/sourceDocsSwift-1.0.zip"
-  sha256 "90c484e5c82d023c0e18962654bcf36fc1d5136823cef3c74cad2d10b643835a"
+  url "https://github.com/ilyakooo0/SourceDocsSwift/releases/download/1.0.1/sourceDocsSwift-1.0.1.zip"
+  sha256 "dcb34db51fba1976b4dae05ca0a01dd1512c4c67108ece98432874c463b69bd8"
   # depends_on "cmake" => :build
   
   depends_on "sourcekitten"
