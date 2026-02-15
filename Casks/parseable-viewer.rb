@@ -1,8 +1,8 @@
 cask "parseable-viewer" do
   arch arm: "arm64", intel: "x86_64"
 
-  version "93748ca"
-  sha256 arm: "f1695218ea6c6b89a468b6e7c362ecde73af613b3be7ab80003d107731d05026", intel: "16f368c077d5b45362c5ce88958465818d2328c407aa29968ab8f3577dcb8bcd"
+  version "c7e5d4e"
+  sha256 arm: "d48cb3d5f2592d6d57be6bca511cffc95c0965737cdf7064fe15ffc4ae3a6706", intel: "925e431dee02a25ffc2e5fe6a95673a02970febec25ea0281f7112e16f981531"
 
   url "https://github.com/ilyakooo0/parseable-macos/releases/download/latest/ParseableViewer-#{arch}.zip"
   name "Parseable Viewer"
